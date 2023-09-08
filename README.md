@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido para estudos, com o objetivo de aprofundar o conhecimento em JavaScript, manipulando o DOM. 
 
-- Ele foi elaborado com base no curso da Alura(Javascript: Manipulando elementos no DOM). 
+- Foi elaborado com base no curso da Alura(Javascript: Manipulando elementos no DOM). 
 
 ## Tecnologias usadas :rocket: 
 
